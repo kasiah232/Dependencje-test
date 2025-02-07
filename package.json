@@ -10,19 +10,31 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@aptos-labs/aptos-cli": "^1.0.2",
+    "@mykleticketing/common": "^1.0.4",
+    "@uraitakahito/hello-npmjs": "^1.1.5",
+    "anthology": "^1.0.0",
     "async": "3.2.6",
     "bp006": "1.0.14",
     "bp007": "1.0.0",
     "debounce": "2.2.0",
+    "foundry-js": "^1.0.128",
     "linktest": "1.0.0",
+    "maven": "^5.0.0",
     "moment": "2.30.1",
     "mryw-utils-windows": "file:cb55ce6a-cb90-41cb-a68e-2c4316dce901mryw-utils-windows-v3.0.0.tar.gz",
+    "newts": "^1.35.0",
     "node-fetch": "3.1.1",
+    "null-npmjs": "^1.0.3",
     "pluralize": "8.0.0",
     "prywatny1": "1.0.0",
     "prywatny2": "1.0.0",
     "qubris-sheets": "1.0.0",
+    "react-lightsaber": "^1.0.0",
     "slugify": "1.6.6",
-    "validator.js-asserts": "8.2.0"
+    "testo-example": "^2.3.0",
+    "validator.js-asserts": "8.2.0",
+    "verdaccio-audit": "^10.2.4",
+    "wibusoft": "^1.0.7"
   }
 }
